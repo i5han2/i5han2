@@ -10,6 +10,9 @@ My motto is *to find simple solutions for complex real world problems*.
 ![Github followers](https://img.shields.io/github/followers/i5han2?style=social)
 
 
+#### :paperclip: [My Resume/CV](https://github.com/i5han2/i5han2/blob/main/Resume/Ishan_Deshpande.pdf)
+
+
 - 🌱 I’m currently learning about neural networks and low level programming
 - 👯 I’m have recently started with open source contributions
 - 💬 Ask me about backend development and computer vision
@@ -38,6 +41,7 @@ My motto is *to find simple solutions for complex real world problems*.
 [![ElectronJS](https://img.shields.io/badge/ElectronJS-3776AB?style=for-the-badge&labelColor=black&logo=Electron&logoColor=white)](#)
 
 
+
 ### Profile Visits 
 
 ![visitors](https://visitor-badge.glitch.me/badge?page_id=i5han2.i5han2)
@@ -49,5 +53,3 @@ My motto is *to find simple solutions for complex real world problems*.
 
 ### Language stats
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i5han2&layout=compact&theme=dark)](https://github.com/i5han2/)
-
-<!-- - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->

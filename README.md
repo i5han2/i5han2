@@ -24,15 +24,15 @@ My motto is *to find simple solutions for complex real world problems*.
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
 [![C](https://img.shields.io/badge/C-00599C?style=for-the-badge&labelColor=black&logo=c&logoColor=white)](#)
 [![NodeJS](https://img.shields.io/badge/Node.js-43853D?style=for-the-badge&labelColor=black&logo=node.js&logoColor=white)](#)
-[![C++](https://img.shields.io/badge/C%2B%2B-00599C?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white)](#)
+[![C++](https://img.shields.io/badge/C%2B%2B-4A154B?style=for-the-badge&labelColor=black&logo=c%2B%2B&logoColor=white)](#)
 [![Java](https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&labelColor=black&logo=java&logoColor=white)](#)
 [![Shellscript](https://img.shields.io/badge/Shell_Script-DD0031?style=for-the-badge&labelColor=black&logo=gnu-bash&logoColor=white)](#)
 [![Flask](https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white)](#)
-[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white)](#)
-[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&logo=heroku&logoColor=white)](#)
-[![Mysql](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)](#)
-[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&labelColor=black&logo=opencv&logoColor=white)](#)
+[![MongoDB](https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&labelColor=black&logo=mongodb&logoColor=white)](#)
+[![Heroku](https://img.shields.io/badge/Heroku-430098?style=for-the-badge&labelColor=black&logo=heroku&logoColor=white)](#)
+[![Mysql](https://img.shields.io/badge/MySQL-00758F?style=for-the-badge&labelColor=black&logo=mysql&logoColor=white)](#)
+[![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&labelColor=black&labelColor=black&logo=opencv&logoColor=white)](#)
 [![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&labelColor=black&logo=git&logoColor=white)](#)
-<!-- https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&logo=Raspberry-Pi
-https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&logo=Arduino&logoColor=white
- -->
+[![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)](#)
+[![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&labelColor=black&logo=Arduino&logoColor=white)](#)
+[![ElectronJS](https://img.shields.io/badge/ElectronJS-3776AB?style=for-the-badge&labelColor=black&logo=Electron&logoColor=white)](#)

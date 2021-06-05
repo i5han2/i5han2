@@ -6,7 +6,7 @@ My motto is *to find simple solutions for complex real world problems*.
 :mailbox: Reach me out!
 
 [![Linkedin Badge](https://img.shields.io/badge/-Linkedin-0e76a8?style=flat&labelColor=0e76a8&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ishan-deshpande/) [![Mail Badge](https://img.shields.io/badge/-Drop_a_mail-c0392b?style=flat&labelColor=c0392b&logo=gmail&logoColor=white)](mailto:ishan.21810421@viit.ac.in)
-<!-- https://img.shields.io/badge/-Hackerrank-2EC866?style=for-the-badge&logo=HackerRank&logoColor=white -->
+[![Stopstalk Badge](https://img.shields.io/badge/-Stopstalk-FF0000?style=flat&logoColor=white)](https://www.stopstalk.com/user/profile/IshanDeshpande)
 ![Github followers](https://img.shields.io/github/followers/i5han2?style=social)
 
 
@@ -18,7 +18,7 @@ My motto is *to find simple solutions for complex real world problems*.
 <!-- - ⚡ Fun fact: The rate of blinking drops down to 1 to 3 per 60 secs when you are looking at the screen. So there is a chance that you havent blinked once when you started reading this. -->
 <!-- - ⚡ Fun fact: I spent most of the time thinking what to write in this section and all the options ended up being commented XD
  -->
-#### Technologies I have worked on
+### Technologies I have worked on
 [![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&labelColor=black&logo=python&logoColor=white)](#)
 [![HTML](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&labelColor=black&logo=html5&logoColor=white)](#)
 [![JS](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)](#)
@@ -36,3 +36,18 @@ My motto is *to find simple solutions for complex real world problems*.
 [![Raspberry Pi](https://img.shields.io/badge/-RaspberryPi-C51A4A?style=for-the-badge&labelColor=black&logo=Raspberry-Pi)](#)
 [![Arduino](https://img.shields.io/badge/-Arduino-00979D?style=for-the-badge&labelColor=black&logo=Arduino&logoColor=white)](#)
 [![ElectronJS](https://img.shields.io/badge/ElectronJS-3776AB?style=for-the-badge&labelColor=black&logo=Electron&logoColor=white)](#)
+
+
+### Profile Visits 
+
+![visitors](https://visitor-badge.glitch.me/badge?page_id=i5han2.i5han2)
+
+
+### My Github stats
+
+[![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=i5han2&hide=stars&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/i5han2/)
+
+### Language stats
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i5han2&layout=compact&theme=dark)](https://github.com/i5han2/)
+
+<!-- - :paperclip: [My Resume/CV](https://github.com/ipenywis/ipenywis/blob/master/resumes/resume%20v1.0.pdf) -->

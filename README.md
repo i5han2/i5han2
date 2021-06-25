@@ -52,4 +52,4 @@ My motto is *to find simple solutions for complex real world problems*.
 [![Ishan's GitHub stats](https://github-readme-stats.vercel.app/api?username=i5han2&hide=stars&show_icons=true&count_private=true&theme=tokyonight)](https://github.com/i5han2/)
 
 ### Language stats
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i5han2&layout=compact&theme=dark)](https://github.com/i5han2/)
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=i5han2&layout=compact&theme=dark)](https://github.com/i5han2)
